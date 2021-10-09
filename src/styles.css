@@ -1,0 +1,45 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 1rem 1rem;
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+  background-color: #064e3b;
+  margin-top: 2rem;
+  border: 1rem solid black;
+}
+
+label {
+  display: block;
+  font-size: 1.5rem;
+  color: white;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+input {
+  border: 1px solid black;
+  font-size: 1rem;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin: 1rem;
+  width: auto;
+}
+
+button {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  border-radius: 0.5rem;
+  background-color: white;
+  align-items: center;
+}
+
+#output {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
